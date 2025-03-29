@@ -52,7 +52,7 @@ The spell checker implements four methods to suggest corrections for misspelled 
 2. **Compile the code** using a C++ compiler:
 
 ```plaintext
-g++ -o text_editor enhanced-text-editor.cpp -std=c++17
+g++ -o text_editor main.cpp -std=c++17
 ```
 
 
